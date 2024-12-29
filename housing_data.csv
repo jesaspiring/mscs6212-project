@@ -1,0 +1,11 @@
+SquareFootage,Bedrooms,Location,YearBuilt,Bathrooms,GarageSize,PropertyTax,DistanceToCityCenter,Price
+1500,3,Downtown,2005,2,2,3000,5,400000
+2500,4,Suburb,2010,3,3,4500,10,600000
+1800,3,Countryside,1995,2,2,3500,15,450000
+1200,2,City Center,1980,1,1,2000,2,300000
+3000,5,Downtown,2020,4,3,5000,6,800000
+2200,4,Suburb,2015,3,2,4000,12,550000
+1600,3,Countryside,2000,2,1,3000,18,420000
+2100,4,City Center,1990,3,2,4500,3,500000
+1700,3,Downtown,1985,2,1,2500,7,470000
+1900,3,Suburb,2018,3,2,4000,8,520000
